@@ -32,7 +32,7 @@ cd quantum-magnetometer-simulation
 
 **Run the Flask server:**
 
-python app.py
+python stimulation.py
 
 Open your web browser and go to http://localhost:5000 to access the simulation interface.
 
