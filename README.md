@@ -9,7 +9,9 @@ Detection of resonance frequency.
 
 **Prerequisites**
 Python (3.x)
+
 Flask
+
 NumPy
 
 **Installation**
