@@ -16,6 +16,8 @@ Detection of resonance frequency.
 
 Python (3.x)
 
+Flask_CORS
+
 Flask
 
 NumPy
